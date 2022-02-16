@@ -44,6 +44,7 @@
       </el-aside>
       <!-- 右侧内容区域 -->
       <el-main>
+         <!-- children嵌套路由 -->
         <router-view></router-view>
       </el-main>
     </el-container>
